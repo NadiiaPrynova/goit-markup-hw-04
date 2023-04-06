@@ -419,6 +419,10 @@ address {
 .footer .second-word {
   color: var(--light-mode-color);
 }
+.footer .soc-list {
+  gap: 16px;
+}
+
 .footer .soc-link:hover,
 .footer .soc-link:focus {
   background-color: var(--green-success);
